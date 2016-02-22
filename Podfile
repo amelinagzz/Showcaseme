@@ -3,6 +3,7 @@ use_frameworks!
 
 target 'Showcaseme' do
 pod 'Firebase', '>= 2.5.0'
+pod 'Alamofire', '~> 3.0'
 end
 
 
